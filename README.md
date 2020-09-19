@@ -1,4 +1,4 @@
-<b><h1>![cover image](https://github.com/jmmj89/jmmj89/images/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg)
+<b><h1>![cover image](https://github.com/jmmj89/jmmj89/blob/master/images/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg)
   <p align ="center"> Hello there! I am José Márcio martins Júnior! </p></h1></b>
 
 <p align="center">
@@ -15,17 +15,23 @@ I am also interested in Surveys and Stock Markets.
 🤔 I am insterested and looking for help with: Financial Time Series Forecasting<br>
 💬 Ask me about ...Anything<br>
 📫 jmmjunifal@gmail.com<br>
-<br/>
+<br>
 <br>
 <b><h2>Languages and Tools: </h2></b>
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-<img align="left" alt="SpringBoot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
+<img align="left" alt="Java" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="R" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
+<img align="left" alt="MySQL" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+<img align="left" alt="SpringBoot" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 
 
-</br>
 <br>
-Visitors since ever: ![Visitor Count](https://profile-counter.glitch.me/{jmmj89}/count.svg)
- 
+<br>
+
+Visitors since ever: 
+
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/{jmmj89}/count.svg)
+
+<br> 
