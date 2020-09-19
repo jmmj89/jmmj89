@@ -10,7 +10,7 @@
 
 I am a Software Developer and Data Analist with 7+ years working experience using mainly Java and R Statistical language. Currently, I am working at Cetic.br, a departament of NIC.br<br>
 I am always looking for ways to collect data using Web Scrapping and Data Mining tools in order to help the Information and Comunication Technology Surveys that we carry on Cetic.br.<br>
-I am also passionate to automatize tasks, I do my best to make people focus on what is really important. I have been developing Java Robots, R Packages and REST API's for this purpose for a long time.
+I am also passionate to automatize tasks, I do my best to help people focus on what is really important. I have been developing Java Robots, R Packages and REST API's for this purpose for a long time.
 
 🤔 In my personal projects, I am always looking for help with: Time Series / Stock Markets forecasting models.<br>
 💬 Ask me about anything! Let's chat!<br>
