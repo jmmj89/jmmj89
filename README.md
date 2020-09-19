@@ -8,16 +8,16 @@
   </p>
  
 
-Currently I am working at NIC.br, mainly in Data Analysis and Software Development using R and Java.<br>
-I am always looking for ways to collect data using Web Scrapping and Data Mining tools.<br>
-I am also interested in Surveys and Stock Markets.<br>
+I am a Software Developer and Data Analist with 7+ years working experience using mainly Java and R Statistical language. Currently, I am working at Cetic.br, a departament of NIC.br<br>
+I am always looking for ways to collect data using Web Scrapping and Data Mining tools in order to help the Information and Comunication Technology Surveys that we carry on Cetic.br.<br>
+I am also passionate to automatize tasks, I do my best to make people focus on what is really important. I have been developing Java Robots, R Packages and REST API's for this purpose for a long time.
 
-🤔 I am insterested and looking for help with: Financial Time Series Forecasting<br>
+🤔 In my personal projects, I am always looking for help with: Time Series / Stock Markets forecasting models.<br>
 💬 Ask me about anything! Let's chat!<br>
 📫 jmmjunifal@gmail.com<br>
 <br>
 <br>
-<b><h2>Languages and Tools: </h2></b>
+<b><h2>Mainly Languages and Tools:</h2></b>
 
 <img align="left" alt="Java" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="R" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
@@ -25,7 +25,8 @@ I am also interested in Surveys and Stock Markets.<br>
 <img align="left" alt="SpringBoot" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 <img align="left" alt="Git" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" alt="Docker" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-<img align="left" alt="SpringBoot" width="78px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
+<img align="left" alt="Eclipse" width="78px" src="https://github.com/jmmj89/jmmj89/blob/master/images/RStudio-Logo.png"/>
+<img align="left" alt="RStudio" width="78px" src="https://github.com/jmmj89/jmmj89/blob/master/images/logo-eclipse.png"/>
 
 
 <br>
